@@ -1,0 +1,13 @@
+com\example\batchprocessing\Domain\Transaction.class
+com\example\batchprocessing\EntryPoint\SkippableExceptionDuringWriteSampleRun.class
+com\example\batchprocessing\ConfigurationProperties\MyProperties.class
+com\example\batchprocessing\CustomExceptions\MissingUsernameException.class
+com\example\batchprocessing\Controllers\DistributedPropertiesController.class
+com\example\batchprocessing\Listeners\StepResultListener.class
+com\example\batchprocessing\JobConfigurations\SkippableExceptionDuringWriteSample.class
+com\example\batchprocessing\Listeners\StepSkipListener.class
+com\example\batchprocessing\CustomExceptions\NegativeAmountException.class
+com\example\batchprocessing\Domain\Trade.class
+com\example\batchprocessing\Domain\Person.class
+com\example\batchprocessing\JobConfigurations\SkippableExceptionDuringWriteSample$1.class
+com\example\batchprocessing\Adapters\LocalDateTimeAdapter.class
