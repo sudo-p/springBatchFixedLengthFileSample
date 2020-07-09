@@ -19,7 +19,23 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d79fded-953a-48fc-8b61-4288017ddbc5" name="Default Changelist" comment="" />
+    <list default="true" id="5d79fded-953a-48fc-8b61-4288017ddbc5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/batchprocessing/ConfigurationProperties/MyProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/batchprocessing/ConfigurationProperties/MyProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/batchprocessing/Controllers/DistributedPropertiesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/batchprocessing/Controllers/DistributedPropertiesController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/batchprocessing/EntryPoint/SkippableExceptionDuringWriteSampleRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/batchprocessing/EntryPoint/SkippableExceptionDuringWriteSampleRun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/batchprocessing/ItemProcessors/PersonItemProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/batchprocessing/ItemProcessors/PersonItemProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/batch-processing-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/batchprocessing/ConfigurationProperties/MyProperties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/batchprocessing/Controllers/DistributedPropertiesController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/batchprocessing/EntryPoint/SkippableExceptionDuringWriteSampleRun.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +49,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1dprsAgJbLV7OMwnAIZ9Tkl3kkY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -48,22 +64,23 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\development\MyLabs\SpringLabs\gs-batch-processing\complete\src\main\java\com\example\batchprocessing\OutputLogs" />
-      <recent name="C:\development\MyLabs\SpringLabs\gs-batch-processing\complete\src\main\java\com\example\batchprocessing\EntryPoint" />
-      <recent name="C:\development\MyLabs\SpringLabs\gs-batch-processing\complete\src\main\resources\input" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\development\LocalLabs\SpringLabs\gs-batch-processing\complete\src\main\java\com\example\batchprocessing\Config" />
+      <recent name="C:\development\LocalLabs\SpringLabs\gs-batch-processing\complete\src\main\java\com\example\batchprocessing\ConfigurationProperties" />
+      <recent name="C:\development\LocalLabs\SpringLabs\gs-batch-processing\complete\src\main\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.example.batchprocessing.EntryPoint" />
       <recent name="com.example.batchprocessing" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\development\LocalLabs\SpringLabs\gs-batch-processing\complete\src\main\java\com\example\batchprocessing\Config" />
-      <recent name="C:\development\LocalLabs\SpringLabs\gs-batch-processing\complete\src\main\java\com\example\batchprocessing\ConfigurationProperties" />
-      <recent name="C:\development\LocalLabs\SpringLabs\gs-batch-processing\complete\src\main\resources" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\development\LocalLabs\SpringLabs\@Master\src\main\resources" />
+      <recent name="C:\development\MyLabs\SpringLabs\gs-batch-processing\complete\src\main\java\com\example\batchprocessing\OutputLogs" />
+      <recent name="C:\development\MyLabs\SpringLabs\gs-batch-processing\complete\src\main\java\com\example\batchprocessing\EntryPoint" />
+      <recent name="C:\development\MyLabs\SpringLabs\gs-batch-processing\complete\src\main\resources\input" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -101,38 +118,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="219" y="57" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1593267065918" />
-    <state x="327" y="191" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593308418866">
+    <state x="327" y="191" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594257966548">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="327" y="191" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1593308418866" />
-    <state x="496" y="89" key="FileChooserDialogImpl" timestamp="1593351593442">
+    <state x="327" y="191" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1594257966548" />
+    <state x="496" y="89" key="FileChooserDialogImpl" timestamp="1594086602525">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="496" y="89" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593351593442" />
-    <state width="1481" height="302" key="GridCell.Tab.0.bottom" timestamp="1594000446071">
+    <state x="496" y="89" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594086602525" />
+    <state width="1481" height="165" key="GridCell.Tab.0.bottom" timestamp="1594030911677">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1481" height="302" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594000446071" />
-    <state width="1481" height="302" key="GridCell.Tab.0.center" timestamp="1594000446071">
+    <state width="1481" height="165" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594030911677" />
+    <state width="1481" height="165" key="GridCell.Tab.0.center" timestamp="1594030911677">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1481" height="302" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594000446071" />
-    <state width="1481" height="302" key="GridCell.Tab.0.left" timestamp="1594000446071">
+    <state width="1481" height="165" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594030911677" />
+    <state width="1481" height="165" key="GridCell.Tab.0.left" timestamp="1594030911677">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1481" height="302" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594000446071" />
-    <state width="1481" height="302" key="GridCell.Tab.0.right" timestamp="1594000446071">
+    <state width="1481" height="165" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594030911677" />
+    <state width="1481" height="165" key="GridCell.Tab.0.right" timestamp="1594030911677">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1481" height="302" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594000446071" />
+    <state width="1481" height="165" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594030911677" />
     <state x="183" y="0" key="Maven.ArtifactSearchDialog" timestamp="1593312405410">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="183" y="0" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1593312405410" />
-    <state x="145" y="0" key="SettingsEditor" timestamp="1594000280894">
+    <state x="145" y="0" key="SettingsEditor" timestamp="1594260311507">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="145" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1594000280894" />
+    <state x="145" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1594260311507" />
     <state x="341" y="0" width="840" height="822" key="search.everywhere.popup" timestamp="1593924877846">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

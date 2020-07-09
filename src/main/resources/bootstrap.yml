@@ -1,11 +1,11 @@
-spring:
-  application:
-    name: myApp
-  cloud:
-    consul:
-      host: localhost
-      port: 8500
-      config:
-        prefix: config/master
-        enabled: true
-        format: FILES
+#spring:
+#  application:
+#    name: myApp
+#  cloud:
+#    consul:
+#      host: localhost
+#      port: 8500
+#      config:
+#        prefix: config/master
+#        enabled: true
+#        format: FILES
